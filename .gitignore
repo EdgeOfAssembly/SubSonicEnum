@@ -1,0 +1,9 @@
+build/
+results/
+*.o
+*.a
+*.so
+*.exe
+*.out
+*.log
+*.swp
