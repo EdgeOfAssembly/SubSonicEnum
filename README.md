@@ -4,7 +4,6 @@ A CUDA-powered DNS subdomain enumerator that tears through subdomains with 1980s
 ## Features
 - **GPU-Charged**: NVIDIA CUDA for lightning-fast subdomain generation.
 - **DNS Precision**: Queries Google, Cloudflare, and Quad9 resolvers with wildcard detection.
-- **Retro UI**: Neon progress bar for that 80s arcade feel.
 - **No Nonsense**: Outputs valid subdomains to `results/valid_subdomains.txt`.
 
 ## Requirements
