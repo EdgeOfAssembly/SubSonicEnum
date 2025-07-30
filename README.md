@@ -11,7 +11,6 @@ A CUDA-powered DNS subdomain enumerator that tears through subdomains with 1980s
 - NVIDIA CUDA Toolkit (v12.9 recommended)
 - CUDA-capable GPU
 - C++17 compiler (e.g., g++)
-- Optional: Wordlist (e.g., `wordlists/best-dns-wordlist.txt`)
 
 ## Installation
 ```bash
